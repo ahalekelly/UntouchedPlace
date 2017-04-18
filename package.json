@@ -1,0 +1,26 @@
+{
+  "name": "untouched-place",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahalekelly/UntouchedPlace.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahalekelly/UntouchedPlace/issues"
+  },
+  "homepage": "https://github.com/ahalekelly/UntouchedPlace#readme",
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "isomorphic-fetch": "^2.2.1",
+    "mongodb": "^2.2.25",
+    "node-fetch": "^1.6.3",
+    "request": "^2.81.0"
+  }
+}
